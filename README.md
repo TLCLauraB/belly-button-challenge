@@ -11,11 +11,15 @@ I received help and support from my fellow Data Vis classmates via our Discord S
 
 I encountered an error early on that kept triggering the debugging feature, pausing my JSON file at a certain line. But it presented curiously: the code would stop on Line 11, but displayed no error message in the Console. 
 
-<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/Screenshot%202023-10-04%20163224.png">
+<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/Screenshot%202023-10-04%20152305-SM.png">
 
-I engaged AskBSC-Learning Assistant via Slack, working with Dinh Chau. He said that it was "fine" as it was not adversely effecting the code itself, which we confirmed was working fine. 
+I engaged an AskBSC-Learning Assistant session via Slack, working with Dinh Chau. He said that it was "probably fine" as it was not adversely effecting the code itself, which we confirmed was working. 
 
 <img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/Screenshot%202023-10-04%20152302-SM.png">
+
+
+
+
 
 https://plotly.com/python/builtin-colorscales/
 
