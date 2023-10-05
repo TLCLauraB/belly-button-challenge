@@ -1,7 +1,7 @@
 # belly-button-challenge
-**Title:** Using D3.js to Analyze Belly Button Biodiversity Dataset
-**Homework Repo for Challenge 14**
-**Author:** Laura Bishop (TLCLauraB)
+**Title:** Using D3.js to Analyze Belly Button Biodiversity Dataset </br>
+**Homework Repo for Challenge 14** </br>
+**Author:** Laura Bishop (TLCLauraB) </br>
 
 # Introduction
 **GitHub Page:** https://tlclaurab.github.io/belly-button-challenge/
