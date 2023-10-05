@@ -19,6 +19,10 @@ I engaged an AskBSC-Learning Assistant session via Slack, working with Dinh Chau
 
 #Summary
 
+GitHub Page: https://tlclaurab.github.io/belly-button-challenge/
+
+
+
 Analysis of results and images here.
 
 # Documentation & Resources
