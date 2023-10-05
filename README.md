@@ -6,18 +6,18 @@ GitHub Page: https://tlclaurab.github.io/belly-button-challenge/
 
 Using data collected by the Public Science Lab, I created a dashboard based on their [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/). For the purposes of this assignment, I used a [static set of data](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json) provided by Bootcamp.
 
-In total, three graphs were created -- a Bar Chart and a Bubble Chart to display type of microbial species found in the sampling and that sample's density, and a Gauge Chart to plot the weekly washing frequency of the individual.  There was also a Metadata display on the individual profiled, and a dropdown menu to change individual profiles.
+In total, three graphs were created -- a Bar Chart and a Bubble Chart to display the type of microbial species found in the sampling and that sample's density, and a Gauge Chart to plot the weekly washing frequency of the individual.  There was also a Metadata display on the individual profiled, and a dropdown menu to change individual profiles.
 
 # Overview
-I recieved help and support from my fellow Data Viz classmates during class time, through Slack, and via our Discord server. I reguarly attended both the before and after-class office hours.
+I received help and support from my fellow Data Viz classmates during class time, through Slack, and via our Discord server. I regularly attended both the before and after-class office hours.
 
 I encountered an error early on that kept triggering the debugging feature, pausing my JSON file at a certain line. But it presented curiously: the code would stop on Line 11, but displayed no error message in the Console. 
 
-<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/Screenshot%202023-10-04%20212125.png">
+<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/image1.png">
 
-I engaged an AskBSC-Learning Assistant session via Slack, working with Dinh Chau. He said that it was "probably fine" as it was not adversely effecting the code itself, which we confirmed was working. 
+I engaged an AskBSC-Learning Assistant session via Slack, working with Dinh Chau. He said that it was "probably fine" as it was not adversely affecting the code itself, which we confirmed was working. 
 
-<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/Screenshot%202023-10-04%20152302-SM.png">
+<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/image2.png">
 
 #Summary
 
