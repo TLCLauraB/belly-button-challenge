@@ -17,12 +17,14 @@ I engaged an AskBSC-Learning Assistant session via Slack, working with Dinh Chau
 
 <img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/Screenshot%202023-10-04%20152302-SM.png">
 
+#Summary
+
+Analysis of results and images here.
+
+# Documentation & Resources
+  * https://plotly.com/javascript/indicator/
+  * https://community.plotly.com/t/what-colorscales-are-available-in-plotly-and-which-are-the-default/2079
+  * https://plotly.com/python/builtin-colorscales/
 
 
 
-
-https://plotly.com/python/builtin-colorscales/
-
-https://community.plotly.com/t/what-colorscales-are-available-in-plotly-and-which-are-the-default/2079
-
-https://plotly.com/javascript/indicator/
