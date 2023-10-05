@@ -2,6 +2,8 @@
 Homework Repo for Challenge 14
 
 # Introduction
+GitHub Page: https://tlclaurab.github.io/belly-button-challenge/
+
 Using data collected by the Public Science Lab, I created a dashboard based on their [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/). For the purposes of this assignment, I used a [static set of data](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json) provided by Bootcamp.
 
 In total, three graphs were created -- a Bar Chart and a Bubble Chart to display type of microbial species found in the sampling and that sample's density, and a Gauge Chart to plot the weekly washing frequency of the individual.  There was also a Metadata display on the individual profiled, and a dropdown menu to change individual profiles.
@@ -19,7 +21,7 @@ I engaged an AskBSC-Learning Assistant session via Slack, working with Dinh Chau
 
 #Summary
 
-GitHub Page: https://tlclaurab.github.io/belly-button-challenge/
+
 
 
 
