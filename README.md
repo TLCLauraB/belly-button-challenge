@@ -13,11 +13,11 @@ I received help and support from my fellow Data Viz classmates during class time
 
 I encountered an error early on that kept triggering the debugging feature, pausing my JSON file at a certain line. But it presented curiously: the code would stop on Line 11, but displayed no error message in the Console. 
 
-<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/image1.png">
+<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/image1-SM.png">
 
 I engaged an AskBSC-Learning Assistant session via Slack, working with Dinh Chau. He said that it was "probably fine" as it was not adversely affecting the code itself, which we confirmed was working. 
 
-<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/image2.png">
+<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/image2-SM.png">
 
 #Summary
 
