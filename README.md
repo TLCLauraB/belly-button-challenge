@@ -21,6 +21,10 @@ I engaged an AskBSC-Learning Assistant session via Slack, working with Dinh Chau
 
 I did the bonus content but found it frustrating that I could not replicate the exact "speedometer-like" styled Gauge Graph as used in the example. I don't know if that was a mock-up image, or something I could actually do and I simply could not figure out how. I wish it could be documented better if we are supposed to absolutely replicate the chart, or develop an approximate one based on the mock-image provided. I used the [suggested site](https://plotly.com/javascript/gauge-charts/) to develop my own Gauge Graph. 
 
+I attempted to 'optimize' the app.js file, grouping like with like. Organizing it in this fashion helped me to understand the purpose of each 'section'.
+
+<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/image6-SM.png">
+
 # Documentation & Resources
   * https://plotly.com/javascript/indicator/
   * https://community.plotly.com/t/what-colorscales-are-available-in-plotly-and-which-are-the-default/2079
